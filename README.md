@@ -1,2 +1,2 @@
 # Assignments
-Courseera assignments for subbmission
+Programming Assignment 2: Lexical Scoping 
